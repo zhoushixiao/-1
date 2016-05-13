@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/stg/!svn/ver/2330/Andriod/PhotoSelector
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/project.properties
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/.gitignore
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/proguard-project.txt
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/AndroidManifest.xml
+END
+.gitattributes
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/.gitattributes
+END
+ic_launcher-web.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/ic_launcher-web.png
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/README.md
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/src/com/photoselector/ui
+END
+AlbumItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/src/com/photoselector/ui/AlbumItem.java
+END
+AlbumAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/src/com/photoselector/ui/AlbumAdapter.java
+END
+BasePhotoPreviewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/src/com/photoselector/ui/BasePhotoPreviewActivity.java
+END
+PhotoSelectorActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/stg/!svn/ver/2392/Andriod/PhotoSelector/src/com/photoselector/ui/PhotoSelectorActivity.java
+END
+MBaseAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/src/com/photoselector/ui/MBaseAdapter.java
+END
+PhotoItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/src/com/photoselector/ui/PhotoItem.java
+END
+PhotoPreviewActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/src/com/photoselector/ui/PhotoPreviewActivity.java
+END
+PhotoPreview.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/src/com/photoselector/ui/PhotoPreview.java
+END
+PhotoSelectorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/stg/!svn/ver/2332/Andriod/PhotoSelector/src/com/photoselector/ui/PhotoSelectorAdapter.java
+END

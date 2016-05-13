@@ -1,0 +1,65 @@
+9
+
+dir
+2332
+https://192.168.1.100/svn/stg/Andriod/PhotoSelector/res
+https://192.168.1.100/svn/stg
+
+
+
+2015-07-02T00:58:54.906034Z
+2332
+renjunjia
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3d07dc27-39cc-384a-9029-d9387076bf7c
+
+
+
+
+
+
+0
+
+values
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-xxhdpi
+dir
+
+anim
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values-zh
+dir
+
